@@ -1,0 +1,51 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22/05/2022, 12:39:41 AM
+    Author     : Ankel
+*/
+.login-bg {
+    -fx-background-color: linear-gradient(to top, #590d22, #FF4D6D);
+}
+
+.btn-login{
+    -fx-background-color: #FF4D6D;
+    -fx-text-fill: #FFCCD5;
+    -fx-font-size: 15px;
+    -fx-font-weight:700;
+    -fx-background-radius: 8px;
+
+}
+
+.lbl-status{
+    -fx-background-color: #C9184A;
+    -fx-text-fill: #FFB3C1;
+    -fx-font-size: 16px;
+    -fx-font-aligment:CENTER;
+    -fx-background-radius: 8px;
+}
+
+.lbl-user{
+    
+    -fx-text-fill: #590D22;
+    -fx-font-size: 16px;
+    -fx-font-aligment:CENTER;
+    -fx-font-weight:700;
+  
+}
+.tab-pane{
+    -fx-tab-max-height: 0px;
+
+}
+
+.tab-pane .tab-header-area{
+    visibility: hidden;
+}
+
+.admin-bg {
+    -fx-background-color: linear-gradient(to top, #FF758F, #590D22);
+    
+}
